@@ -1,1 +1,0 @@
-Open index.html in a browser. Floral petals fall when Open Wedding Website is clicked. The original-color watercolor image is used on the welcome page. Meet the Couple includes professions and parents contact numbers. Duplicate Meet the Couple, Wedding Schedule, Gallery, and Our Families sections have been removed.
