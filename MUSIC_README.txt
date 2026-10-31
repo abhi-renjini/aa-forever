@@ -1,0 +1,1 @@
+Original gentle instrumental background music included. Click Open Wedding Website to start. Use the Music On/Off button at bottom-right. Audio may be blocked by some browsers until a user interaction. The track is original and generated for this wedding website.
