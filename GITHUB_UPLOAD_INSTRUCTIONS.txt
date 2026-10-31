@@ -1,0 +1,11 @@
+GITHUB PAGES UPLOAD INSTRUCTIONS
+
+1. Extract this ZIP.
+2. Open the extracted folder. Upload the CONTENTS (index.html, firebase-config.js, assets folder, etc.) to the ROOT of your GitHub repository. Do not upload the enclosing folder as a single nested directory.
+3. Confirm repository root contains index.html and assets/ directly.
+4. Under assets/ check image filenames match the references in index.html exactly (case-sensitive).
+5. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6. Wait for deployment, then hard refresh Ctrl+Shift+R.
+7. If images still do not appear, open https://USERNAME.github.io/REPOSITORY/assets/original-color-watercolor.jpg (substitute your actual username/repository).
+
+NOTE: Firebase public wishes need your own Firebase config and secure Firestore setup.
