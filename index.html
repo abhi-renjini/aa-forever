@@ -151,7 +151,7 @@ function stopRotation(){if(rotationTimer){clearInterval(rotationTimer);rotationT
 function startRotation(){
   stopRotation();
   if(wishCount>1 && !window.matchMedia('(prefers-reduced-motion: reduce)').matches)
-    rotationTimer=setInterval(()=>showWish(activeWish+1),5500);
+    rotationTimer=setInterval(()=>showWish(activeWish+1),2000);
 }
 document.getElementById('wishPrev').addEventListener('click',()=>{showWish(activeWish-1);startRotation();});
 document.getElementById('wishNext').addEventListener('click',()=>{showWish(activeWish+1);startRotation();});
